@@ -1,0 +1,14 @@
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\bin\Debug\net8.0\output.exe
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\bin\Debug\net8.0\output.deps.json
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\bin\Debug\net8.0\output.runtimeconfig.json
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\bin\Debug\net8.0\output.dll
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\bin\Debug\net8.0\output.pdb
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\obj\Debug\net8.0\output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\obj\Debug\net8.0\output.AssemblyInfoInputs.cache
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\obj\Debug\net8.0\output.AssemblyInfo.cs
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\obj\Debug\net8.0\output.csproj.CoreCompileInputs.cache
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\obj\Debug\net8.0\output.dll
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\obj\Debug\net8.0\refint\output.dll
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\obj\Debug\net8.0\output.pdb
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\obj\Debug\net8.0\output.genruntimeconfig.cache
+C:\Users\inaki.rodriguez\Documents\Me\foreach\output\obj\Debug\net8.0\ref\output.dll
